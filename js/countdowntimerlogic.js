@@ -190,7 +190,7 @@ function countDown(minutes,seconds) {
       $('.minutes').html(formattedMinutes);
       $('.seconds').html(formattedSeconds);
         
-    }, 10);
+    }, 1000);
 }   
  
 
