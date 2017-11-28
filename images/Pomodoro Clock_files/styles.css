@@ -1,0 +1,69 @@
+body {
+background-color: dimgray;
+}
+
+.jumbotron {
+	background-color:#ED5D40;
+	background: url('../images/background.jpg');
+	
+
+    color: #F0EAD6;
+    text-shadow:
+    -1px -1px 0 #000,
+
+    1px 1px 0 #000;  
+}
+
+
+
+.lead {
+	margin-top: 20px;
+	
+}
+
+.main-heading {
+	margin-top: -40px;
+	margin-bottom: 20px;
+
+
+}
+
+#time {
+	color: white;
+	height: 200px;
+	width: 300px;
+	}
+
+.steps {
+/* 	background-color: #F0EAD6; */
+	color: black;
+	text-shadow: none;
+	background-color: #F0EAD6;
+	
+}
+
+#header-center {
+	
+	border: none;
+	
+
+}
+
+.time {
+	display: inline-block;
+
+}
+
+.colon {
+	margin-right: -60px;
+	margin-left: -60px;
+}
+
+.task1 {
+	padding-bottom: 10px;
+	margin-top: 5px;
+}
+.task-button {
+	background-color: dimgray;
+	color: #F0EAD6;
+}
