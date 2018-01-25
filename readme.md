@@ -67,7 +67,7 @@ function getJoke(){
 ```
 
 ## Project Screenshots:
-![alt text](/images/focus.webm "project screenshot")
+![alt text](/images/timerscreenshot.png "project screenshot")
 
 ## 3 Contributions We’d Like to See:
 1. Incorporate periodic displays of encouraging quotes and messages to inspire the user to keep working hard!
