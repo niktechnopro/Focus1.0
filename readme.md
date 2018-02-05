@@ -70,7 +70,6 @@ function getJoke(){
 [![screenshot 1](/images/timerscreenshot1.png "project screenshot")]
 [![screenshot 2](/images/timerscreenshot2.png "project screenshot")]
 [![screenshot 3](/images/timerscreenshot3.png "project screenshot")]
-[![screenshot 4](/images/timerscreenshot4.png "project screenshot")]
 
 
 ## 3 Contributions We’d Like to See:
